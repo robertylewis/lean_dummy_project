@@ -9,5 +9,5 @@ theorem not_graded : LoVe.State = (String → Nat) := sorry
 
 @[1 point] theorem refl1 : 1 = 1 := sorry
 
-@[1.0 point] theorem refl1.0 : 1.0 = 1.0 := sorry
+@[1.0 point] theorem refl10 : 1.0 = 1.0 := sorry
 
