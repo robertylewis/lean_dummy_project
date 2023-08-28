@@ -1,4 +1,4 @@
--- import AutograderLib
+import AutograderLib
 import LoVe.LoVelib
 
 theorem not_graded : LoVe.State = (String → Nat) := sorry
