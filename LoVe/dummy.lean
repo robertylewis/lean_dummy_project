@@ -5,7 +5,7 @@ theorem not_graded : LoVe.State = (String → Nat) := sorry
 
 @[4 points] theorem refl4 : 4 = 4 := rfl
 
-@[7.25 points] theorem refl725 : 4 = 4 :=
+@[7.25 points] theorem refl725 : 7.25 = 7.25 :=
   rfl
 
 axiom t : 1 = 1
