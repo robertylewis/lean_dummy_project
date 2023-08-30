@@ -34,7 +34,7 @@
   {"git":
    {"url": "https://github.com/jrr6/lean4-autograder-main",
     "subDir?": null,
-    "rev": "d54aef625389307ec9ec4dc67713c53585d46b55",
+    "rev": "ed8b2e6343a7516bd7849e6767bccfa0eea27a1c",
     "name": "autograder",
     "inputRev?": null}},
   {"git":
